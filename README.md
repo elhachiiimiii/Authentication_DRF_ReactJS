@@ -1,15 +1,15 @@
 # Installation guide
 
-git clone https://github.com/divanov11/refresh-token-interval
+git clone https://github.com/elhachiiimiii/Authentication_DRF_ReactJS
 
-#Setup Backend
-1. cd refresh-token-interval/backend
-2. pip install -r requirements.txt
-3. python manage.py createsuperuser
-4.  python manage.py runserver
+# Backend
+ cd Authentication_DRF_ReactJS/backend
+ pip install -r requirements.txt
+ python manage.py createsuperuser
+ python manage.py runserver
 
-#Setup Frontend
+# Frontend
 
-1. cd refresh-token-interval/frontend
-2. npm install
-3. npm start
+ cd Authentication_DRF_ReactJS/frontend
+ npm install
+ npm start
